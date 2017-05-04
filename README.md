@@ -30,7 +30,7 @@ Technologies Used
 
 The Approach Taken
 ------
-We began with our general API research relative to our project idea. After [wireframing](https://imgur.com/a/UEqA0) and mapping out our [entity relationship diagrams](https://imgur.com/a/QTyLS), we played to our strong suits and completed role assignments. Working under an agile development system, we completed our backend database, route directives and front-end objectives. As an additional feature, we added a media page for instructional videos. Lastly we've deployed our site, which you can find if you [click here]().
+We began with our general API research relative to our project idea. After [wireframing](https://imgur.com/a/UEqA0) and mapping out our [entity relationship diagrams](https://imgur.com/a/QTyLS), we played to our strong suits and completed role assignments. Working under an agile development system, we completed our backend database, route directives and front-end objectives. As an additional feature, we added a media page for instructional videos. Lastly we've deployed our site, which you can find if you [click here](http://infinite-mesa-86574.herokuapp.com/).
 
 Unsolved Problems
 ------
